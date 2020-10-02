@@ -1,0 +1,2 @@
+# mayamodel
+character rig model
